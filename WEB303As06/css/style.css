@@ -1,0 +1,55 @@
+/* Name : Vishal N Patel
+Student Id : 0827195 */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+
+.fan-page {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+
+.accordion {
+    background-color: #fff;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.accordion h3 {
+    cursor: pointer;
+}
+
+cc
+.tabbed-section {
+    background-color: #fff;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.tabs li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+}
+
+.tabs li a {
+    text-decoration: none;
+    color: #333;
+}
+.tabs li.active a {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.tab-content {
+    display: none;
+}
+
