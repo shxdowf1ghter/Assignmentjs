@@ -1,0 +1,79 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+
+#search-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#search {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#character-table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+#character-table th, #character-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+#character-table th {
+    background-color: #f2f2f2;
+}
+
+#character-table tr.highlight td {
+    background-color: #4caf50;
+    color: #fff;
+}
+
+#filter-buttons {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#filter-buttons button {
+    padding: 12px 20px;
+    margin: 0 10px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #2196F3;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+#filter-buttons button:hover {
+    background-color: #0b7dda;
+}
+
+#filter-buttons button span {
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+@media screen and (max-width: 600px) {
+    #character-table {
+        width: 100%;
+    }
+}

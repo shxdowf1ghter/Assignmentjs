@@ -1,0 +1,10 @@
+[
+    {"firstName": "Naruto", "lastName": "Uzumaki", "age": 27, "gender": "Male", "occupation": "Hokage", "dateOfBirth": "1995-08-12"},
+    {"firstName": "Sakura", "lastName": "Haruno", "age": 32, "gender": "Female", "occupation": "Doctor", "dateOfBirth": "1990-03-25"},
+    {"firstName": "Jiraya", "lastName": "Goat", "age": 40, "gender": "Male", "occupation": "Author", "dateOfBirth": "1982-11-05"},
+    {"firstName": "Ussop", "lastName": "Yassop", "age": 28, "gender": "Female", "occupation": "Graphic Designer", "dateOfBirth": "1994-06-18"},
+    {"firstName": "Snaji", "lastName": "Vinsmoke", "age": 35, "gender": "Male", "occupation": "Chef", "dateOfBirth": "1987-09-22"},
+    {"firstName": "Tony", "lastName": "Chopper", "age": 31, "gender": "Female", "occupation": "Biologist", "dateOfBirth": "1991-12-01"},
+    {"firstName": "Law", "lastName": "Trafalger", "age": 45, "gender": "Male", "occupation": "Detective", "dateOfBirth": "1978-04-10"}
+  ]
+  
